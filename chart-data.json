@@ -1,0 +1,8 @@
+{
+    "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange", "New Color"],
+    "datasets": [{
+        "label": "# of Votes",
+        "data": [3, 9, 12, 15, 18, 21, 10],
+        "borderWidth": 1
+    }]
+}
